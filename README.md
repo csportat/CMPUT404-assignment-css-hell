@@ -1,3 +1,19 @@
+# CMPUT404-assignment-web-client 
+
+forked from abramhindle/CMPUT404-assignment-css-hell 
+
+Succeed Apache 2.0 license from the origin (for code), and all modifications are licensed under the Apache 2.0 license by Tianying Xia. 
+
+Succeed CC-BY-SA 4.0 unported license from the origin (for textual content). 
+
+Collaborators are listed below, if there is any: 
+
+Jiaxin Wang (jiaxin13) 
+
+Jiayuan Sun (jiayuan5) 
+
+Following are the content from the original README.md from https://github.com/abramhindle/CMPUT404-assignment-css-hell 
+
 Assignment: CSS Hell
 ====================
 
@@ -20,5 +36,4 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
-
 
