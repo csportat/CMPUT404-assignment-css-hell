@@ -10,7 +10,15 @@ Collaborators are listed below, if there is any:
 
 Jiaxin Wang (jiaxin13) 
 
-Jiayuan Sun (jiayuan5) 
+Zoey Pu (jpu1) 
+
+For Part 1, I did:
+choose a kind of light yellow as background colour 
+use Georgia as font for body 
+round the image border 
+make different style for different header 
+
+
 
 Following are the content from the original README.md from https://github.com/abramhindle/CMPUT404-assignment-css-hell 
 

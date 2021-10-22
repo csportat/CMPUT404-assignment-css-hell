@@ -1,0 +1,19 @@
+body {
+    background: #faebd0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: bolder;
+}
+h1 {
+    font-style: oblique;
+}
+h2, h5 {
+    font-style: italic;
+}
+p {
+    font-size: 95%;
+}
+img {
+    border-radius: 1em;
+}
