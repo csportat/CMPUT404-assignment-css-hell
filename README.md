@@ -12,10 +12,14 @@ Jiaxin Wang (jiaxin13)
 
 Zoey Pu (jpu1) 
 
-For Part 1, I did:
+For Part 1, I did: 
+
 choose a kind of light yellow as background colour 
+
 use Georgia as font for body 
+
 round the image border 
+
 make different style for different header 
 
 
