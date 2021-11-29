@@ -1,4 +1,4 @@
-# CMPUT404-assignment-web-client 
+# Assignment: CSS Hell 
 
 forked from abramhindle/CMPUT404-assignment-css-hell 
 
